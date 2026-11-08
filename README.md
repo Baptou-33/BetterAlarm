@@ -1,6 +1,6 @@
 # BetterAlarm - Application d'Alarme Android
 
-Une application d'alarme complète pour Android avec des fonctionnalités avancées comme les sous-alarmes et la répétition personnalisable. Inspirée de l'application Horloge d'OxygenOS 13 pour OnePlus Nord CE 5G.
+Une application d'alarme complète pour Android avec des fonctionnalités avancées comme les sous-alarmes et la répétition personnalisable. Inspirée de l'application Horloge d'OxygenOS 13 pour OnePlus Nord CE 5G. Elle a été entièrement vibe codée sur Mistral, peut-être que j'essaierai d'en faire une moi-même à un moment...
 
 ## Fonctionnalités
 
