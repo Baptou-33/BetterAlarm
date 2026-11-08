@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BetterAlarm</string>
+    
+    <string name="add_alarm">Ajouter une alarme</string>
+    <string name="edit_alarm">Modifier l&#39;alarme</string>
+    <string name="save">Sauvegarder</string>
+    <string name="cancel">Annuler</string>
+    <string name="delete">Supprimer</string>
+    
+    <string name="alarm">Alarme</string>
+    <string name="alarms">Alarmes</string>
+    <string name="sub_alarm">Sous-alarme</string>
+    <string name="sub_alarms">Sous-alarmes</string>
+    
+    <string name="repetition">Répétition</string>
+    <string name="once">Une fois</string>
+    <string name="daily">Tous les jours</string>
+    <string name="weekly">Jours de la semaine</string>
+    <string name="specific_dates">Dates spécifiques</string>
+    
+    <string name="snooze">Répéter</string>
+    <string name="vibrate">Vibration</string>
+    <string name="label">Label</string>
+    <string name="time">Heure</string>
+    
+    <string name="notification_channel_name">Alarmes</string>
+    <string name="notification_channel_description">Canal pour les notifications d&#39;alarme</string>
+</resources>
