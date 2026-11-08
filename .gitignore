@@ -1,0 +1,45 @@
+# Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+dist/
+
+# Local history
+.idea/history
+
+# Android
+*.apk
+*.ap_
+*.aab
+*.aab_
+
+# Generated files
+app/src/main/generated/
+
+# Keystores
+*.jks
+*.keystore
+
+# Signing files
+*.properties
+
+# Emulator
+*.avd
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crashlytics
+crashlytics-build.properties
+
+# Firebase
+google-services.json
